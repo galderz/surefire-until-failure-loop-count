@@ -1,0 +1,16 @@
+# ignore Maven generated target folders
+target
+# ignore eclipse files
+.project
+.classpath
+.settings
+.scala_dependencies
+.externalToolBuilders
+.factorypath
+# ignore IDEA files
+*.iml
+*.ipr
+*.iws
+.idea
+# generated class folder
+gen
